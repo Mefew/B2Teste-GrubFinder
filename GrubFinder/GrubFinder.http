@@ -1,6 +1,0 @@
-@GrubFinder_HostAddress = http://localhost:5294
-
-GET {{GrubFinder_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
